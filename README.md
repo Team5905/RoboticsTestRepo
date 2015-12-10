@@ -1,7 +1,7 @@
 # RoboticsTestRepo
 Use this repository to practice using GitHub.
 
-Step 1: Clone this repository and then commit your hello world file. (we will talk about this on wednesday)
+Step 1: Using the desktop app, clone this repository and then commit your hello world file. (we will talk about this on wednesday)
 
 Step 2: Make a new branch on someone else's code, and comment "Hello [name]" on the top. Then, merge the code. 
 
